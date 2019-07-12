@@ -1,7 +1,7 @@
 # homebridge-platform-ring-video-doorbell
 **This package is DEPRECATED**
 
-Use [this package](https://github.com/dgreif/ring/homebridge) instead:
+Use [this package](https://github.com/dgreif/ring/tree/master/homebridge) instead:
 
     npm install -g homebridge-ring-alarm
     
