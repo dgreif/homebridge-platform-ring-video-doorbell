@@ -3,7 +3,7 @@
 
 Use [this package](https://github.com/dgreif/ring/tree/master/homebridge) instead:
 
-    npm install -g homebridge-ring-alarm
+    npm install -g homebridge-ring
     
 _So long, and thanks for all the fish!_
 
